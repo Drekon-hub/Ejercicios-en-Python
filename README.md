@@ -7,13 +7,13 @@ Escribir un programa que almacene la cadena ¡Hola Mundo! en una variable y lueg
 ## Ejercicio 2: Entradas por consola
 Escribir un programa que pregunte el nombre del usuario en la consola y después de que el usuario lo introduzca muestre por pantalla la cadena ¡Hola <nombre>!, donde <nombre> es el nombre que el usuario haya introducido.
 
-Ejercicio 3: Aprendiendo a contar
+## Ejercicio 3: Aprendiendo a contar
 Escribir un programa que pregunte el nombre del usuario en la consola y después de que el usuario lo introduzca muestre por pantalla <NOMBRE> tiene <n> letras, donde <NOMBRE> es el nombre de usuario en mayúsculas y <n> es el número de letras que tienen el nombre.
 
-Ejercicio 4: Al revés
+## Ejercicio 4: Al revés
 Escribir un programa que pida al usuario que introduzca una frase en la consola y muestre por pantalla la frase invertida.
 
-Ejercicio 5: Horas trabajadas
+## Ejercicio 5: Horas trabajadas
 Escribir un programa que pregunte al usuario por el número de horas trabajadas y el coste por hora. Después debe mostrar por pantalla la paga que le corresponde.
 
 Ejercicio 6: IMC
