@@ -1,10 +1,10 @@
 ## Ejercicios-en-Python
 
-##Nivel 1: Baby Python
+## Nivel 1: Baby Python
 Ejercicio 1: Hola mundo
 Escribir un programa que almacene la cadena ¡Hola Mundo! en una variable y luego muestre por pantalla el contenido de la variable.
 
-Ejercicio 2: Entradas por consola
+## Ejercicio 2: Entradas por consola
 Escribir un programa que pregunte el nombre del usuario en la consola y después de que el usuario lo introduzca muestre por pantalla la cadena ¡Hola <nombre>!, donde <nombre> es el nombre que el usuario haya introducido.
 
 Ejercicio 3: Aprendiendo a contar
